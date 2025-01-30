@@ -1,7 +1,7 @@
 # CSCI462
 
 Learning Objectives [# CSCI 462, App Development (4 credit)][https://pawar1550.wixsite.com/claflin-courses/copy-of-stat342](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-4-credit-spring-22-5)). Date created/updated: December, 9, 2024.
-United States of America (USA). CSCI462  (App Development Lifecycle (ADLC), user interface (UI) design, programming languages (Java for android studio, Swift, Xcode for iOS), database management, application logic, testing methodologies, deployment processes, maintenance strategies  mobile development frameworks, cloud services, performance optimization, and security practices).
+United States of America (USA). CSCI462  (App Development Lifecycle (ADLC), user interface (UI) design, programming languages (Java for android studio, Swift, Xcode for iOS, React Native for cross platform), database management, application logic, testing methodologies, deployment processes, maintenance strategies  mobile development frameworks, cloud services, performance optimization, and security practices). Handling Text Input React Native: const PizzaTranslator().
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 ![download](https://github.com/user-attachments/assets/72fa4674-a3b7-472f-a029-07b3d6e02886)
 [Semester class review:](https://youtu.be/Pju8ecWWRAw)
